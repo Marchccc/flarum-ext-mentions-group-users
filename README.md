@@ -5,6 +5,10 @@
 
 A [Flarum](http://flarum.org) extension. mentions group users
 
+When typing the / symbol, show users in the same group for @
+
+<img src="./example.png" width="80%" />
+
 ## Installation
 
 Install with composer:

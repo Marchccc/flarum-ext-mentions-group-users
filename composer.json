@@ -5,7 +5,7 @@
         "flarum"
     ],
     "type": "flarum-extension",
-    "license": "CC-BY-NC-ND-2.0",
+    "license": "MIT",
     "require": {
         "flarum/core": "^1.2.0"
     },
